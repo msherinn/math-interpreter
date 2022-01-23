@@ -1,12 +1,25 @@
 ﻿using System;
+using System.Collections;
 
-namespace rpn_interpreter
+namespace DataStructures
 {
-    internal class Program
+    public class AlStack
     {
-        static void Main(string[] args)
+        readonly ArrayList stack = new();
+
+        public void Push(string element)
         {
-            Console.WriteLine("Hello World!");
+            stack.Insert(0, element);
+        }
+        public string Pop()
+        {
+            string element = (string)stack[0];
+            stack.RemoveAt(0);
+            return element;
+        }
+        public int Size()
+        {
+            return stack.Count;
         }
     }
 }
