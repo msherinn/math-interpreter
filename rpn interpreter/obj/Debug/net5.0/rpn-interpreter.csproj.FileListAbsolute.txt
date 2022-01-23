@@ -1,0 +1,15 @@
+C:\Sandbox\math-interpreter\rpn interpreter\bin\Debug\net5.0\rpn-interpreter.exe
+C:\Sandbox\math-interpreter\rpn interpreter\bin\Debug\net5.0\rpn-interpreter.deps.json
+C:\Sandbox\math-interpreter\rpn interpreter\bin\Debug\net5.0\rpn-interpreter.runtimeconfig.json
+C:\Sandbox\math-interpreter\rpn interpreter\bin\Debug\net5.0\rpn-interpreter.runtimeconfig.dev.json
+C:\Sandbox\math-interpreter\rpn interpreter\bin\Debug\net5.0\rpn-interpreter.dll
+C:\Sandbox\math-interpreter\rpn interpreter\bin\Debug\net5.0\ref\rpn-interpreter.dll
+C:\Sandbox\math-interpreter\rpn interpreter\bin\Debug\net5.0\rpn-interpreter.pdb
+C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.AssemblyInfoInputs.cache
+C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.AssemblyInfo.cs
+C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.csproj.CoreCompileInputs.cache
+C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.dll
+C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\ref\rpn-interpreter.dll
+C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.pdb
+C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.genruntimeconfig.cache
