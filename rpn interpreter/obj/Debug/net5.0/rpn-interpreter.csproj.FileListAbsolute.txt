@@ -13,3 +13,4 @@ C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.dll
 C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\ref\rpn-interpreter.dll
 C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.pdb
 C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.genruntimeconfig.cache
+C:\Sandbox\math-interpreter\rpn interpreter\obj\Debug\net5.0\rpn-interpreter.csproj.AssemblyReference.cache
