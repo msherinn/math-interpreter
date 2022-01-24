@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections;
+using System.Linq;
 
 namespace DataStructures
 {
+    //create stack
     public class AlStack
     {
         readonly ArrayList stack = new();
@@ -25,6 +27,7 @@ namespace DataStructures
         }
     }
 
+    //create queue
     public class AlQueue
     {
         readonly ArrayList queue = new();
@@ -44,6 +47,51 @@ namespace DataStructures
         public int Size()
         {
             return queue.Count;
+        }
+    }
+
+    class Program
+    {
+        //getting token from the string
+        public (string, int) GetToken(string arg)
+        {
+            int i = 0;
+            string number = null;
+            string token = null;
+            while(i < arg.Length)
+            {
+                if(Char.IsWhiteSpace(arg[i]) == true)
+                {
+                    i++;
+                }
+                else if(Char.IsDigit(arg[i]) == true)
+                {
+                    number += arg[i];
+                    i++;
+                }
+
+                else
+                {
+                    if (number == null)
+                    {
+                        token += arg[i];
+                        return (token, i++);
+                    }
+
+                    else
+                    {
+                        return (number, i);
+                    }
+                }
+            }
+
+            return (number, i);
+            
+        }
+
+        static void Main(string[] args)
+        {
+            string expression = Console.ReadLine();
         }
     }
 }
