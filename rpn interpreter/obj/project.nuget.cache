@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AlnQMvYqgt/DGjsjNvJGBh903DliNeQIGdHE4NXgVPiTbjLXlTeSFJCv43EJqG+lzbLBRC48jacVcX7GGrXosQ==",
+  "dgSpecHash": "OSfZGR74ys6v3t/5USYk5sSxPeVcRX6e/uA4fgEnzbxCm6PunMPq+QGrAJgWQiRE0glMNUwOYlK31nMAEbV6FQ==",
   "success": true,
   "projectFilePath": "C:\\Sandbox\\math-interpreter\\rpn interpreter\\rpn-interpreter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
